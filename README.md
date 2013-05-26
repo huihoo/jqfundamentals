@@ -10,6 +10,12 @@ post](http://blog.rebeccamurphey.com/the-future-of-jquery-fundamentals-and-a-con
 
 Please do not open issues on this repo; use the new jQuery Project repo instead.
 
+jQuery 基本原理
+http://docs.huihoo.com/jquery/jquery-fundamentals/zh-cn/
+
+灰狐组织中文版的翻译工作
+http://wiki.huihoo.com/wiki/JQuery_Fundamentals
+
 ## Using this Material ##
 
 You are welcome to use this material according to the terms of the
